@@ -13,3 +13,9 @@ Visits and Exits Module
 
 Sanitization Records Module 
 - to record details about sanitizing done on venues. 
+
+Contributors:
+- LJL
+- LSK
+- CCO
+- TWD
