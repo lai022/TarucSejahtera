@@ -19,3 +19,6 @@ Contributors:
 - LSK
 - CCO
 - TWD
+
+Notice:
+- This is a console-based system so not QR code to be scanned. :)
