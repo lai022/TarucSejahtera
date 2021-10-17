@@ -21,4 +21,4 @@ Contributors:
 - TWD
 
 Notice:
-- This is a console-based system so not QR code to be scanned. :)
+- This is a console-based system so no QR code to be scanned. :)
